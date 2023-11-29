@@ -1,5 +1,15 @@
-### Hi there 👋
+### ¡Hola! I'm Pp Dany 👋
 
+iOS Software Engineer with 11 years of experience in Mobile Development, Entrepreneurship and Design.
+
+It's not just iOS tho... 🤠 
+Front End | Design | CSS (love challenges with vanilla CSS) | JS | React | Drupal (I know) | Architecture |
+
+🫡 Open to collaborate in freelance projects.
+🧙‍♂️ Currently refining my iOS skills and platform architecture knowledge.
+💬 Ask me about UI/UX to make your amazing tech ideas shine.
+👯 I’d love to collaborate with Future Tech 💻, Health 🧑‍🔬, Food 🌮🍋 and eCommerce (particularly active wear 🧘‍♂️) industries.
+⚡ Fun fact: I know a thing or two about Aerial Dancing 🤸‍♂️🧗‍♂️ ... and thrive on dad jokes 🌝
 <!--
 **ppdany/ppdany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
